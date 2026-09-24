@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>odxnoj-sh</h1>
+  <h1>odxnoj</h1>
 
   <p><i>I'm a tech kiddo interested in UNIX & POSIX systems</i></p>
 
